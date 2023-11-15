@@ -16,7 +16,7 @@
 <img align="right" src="https://github.com/FransisGIT/FransisGIT/assets/102639215/a6227ce8-328b-4940-87c9-416b41ff48f1" width="43%">
 </div>  
 
- 
+ <img align="center" style="padding-bottom:-500px;" src="assets/foot.gif" width="100%">
 
 
 
