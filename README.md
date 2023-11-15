@@ -1,4 +1,6 @@
-hello! here's a little about me:
+<h1 align="center">Hi 👋, I'm Arie</h1>
+<h3 align="center">A passionate web developer from Indonesia</h3>
+
 
 <!-- Nothing weird to see here -->
 <p align="center">
