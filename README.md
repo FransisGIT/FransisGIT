@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Fransisco </h1>
-<img src="assets/wavinghand.gif" width="35">
+<h1 align="center">Hi <img src="assets/wavinghand.gif" width="35">, I'm Fransisco </h1>
+
 <h2 align="center">I'm a person who enjoys coding and computers stuff.</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=FransisGIT&label=Views&color=0e75b6&style=for-the-badge" alt="MuhamDaily on Github" /> </p>
