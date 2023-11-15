@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arie</h1>
-<h3 align="center">A passionate web developer from Indonesia</h3>
-
+<h1 align="center">Hi 👋, I'm Fransisco </h1>
 
 <!-- Nothing weird to see here -->
 <p align="center">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
-  </a>
+  [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31ne6p3b7ubdlw277wivafv5hb2q&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ne6p3b7ubdlw277wivafv5hb2q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 </p>
 
 <p align="center">
