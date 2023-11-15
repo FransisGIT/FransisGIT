@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fransisco </h1>
-<h2 align="center">I'm a person who enjoys coding and computers.</h2>
+<h2 align="center">I'm a person who enjoys coding and computers stuff.</h2>
 
 
 <!-- Nothing weird to see here -->
