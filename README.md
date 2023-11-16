@@ -12,7 +12,6 @@
 
 <hr>
 
-
 <div align="center">
   <img src="assets/foot.gif">
 </div>
