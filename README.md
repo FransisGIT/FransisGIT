@@ -5,9 +5,9 @@
 
 <hr>
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ne6p3b7ubdlw277wivafv5hb2q&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ne6p3b7ubdlw277wivafv5hb2q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)" width="48%">
-  <img src="https://github.com/FransisGIT/FransisGIT/assets/102639215/a6227ce8-328b-4940-87c9-416b41ff48f1" width="48%">
+<div style="display: flex; justify-content:center; margin-top: 20px;">
+  <img align="left" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ne6p3b7ubdlw277wivafv5hb2q&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ne6p3b7ubdlw277wivafv5hb2q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)" width="48%">
+  <img align="center" src="https://github.com/FransisGIT/FransisGIT/assets/102639215/a6227ce8-328b-4940-87c9-416b41ff48f1" width="48%">
 </div>
 
 <hr>
