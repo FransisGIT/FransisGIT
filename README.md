@@ -3,6 +3,13 @@
 <h1 align="center">Hi <img align="center" src="assets/wavinghand.gif" width="35">, I'm Fransisco <img src="assets/profile.jpeg" width="25px"> </h1>
 <h2 align="center">I'm a person who enjoys coding and computers stuff.</h2>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=fransisgit&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
+<img src="https://img.shields.io/github/followers/fransisgit?style=social" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/fransisgit?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
+<img src="https://badges.pufler.dev/repos/fransisgit?style=flat-square&color=000000" alt="Repos Badge"/>
+</p>
+
 <hr>
 
 <h3 align="center">Now Playing | Favorite</h3>
