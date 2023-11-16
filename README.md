@@ -1,6 +1,6 @@
 <img src="assets/intro.gif" width="100%">
 
-<h1 align="center">Hi 👋<img align="center" src="assets/wavinghand.gif" width="35">, I'm Fransisco <img style="padding-bottom:-500px;" src="assets/profile.jpeg" width="25px"> </h1>
+<h1 align="center">Hi <img align="center" src="assets/wavinghand.gif" width="35">, I'm Fransisco <img style="padding-bottom:-500px;" src="assets/profile.jpeg" width="25px"> </h1>
 <h2 align="center">I'm a person who enjoys coding and computers stuff.</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=FransisGIT&label=Views&color=0e75b6&style=for-the-badge" alt="FransisGIT on Github" /> </p>
@@ -15,8 +15,5 @@
   
 <img align="right" src="https://github.com/FransisGIT/FransisGIT/assets/102639215/a6227ce8-328b-4940-87c9-416b41ff48f1" width="48%">
 </div>  
-
-
-<hr>
 
  <img src="assets/foot.gif" width="100%">
