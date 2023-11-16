@@ -4,10 +4,13 @@
 <h2 align="center">I'm a person who enjoys coding and computers stuff.</h2>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=fransisgit&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
+  <img src="https://komarev.com/ghpvc/?username=fransisgit&label=Profile%20views&color=53B14F&style=flat-square" alt="view profile" width="175"/>
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/github/followers/fransisgit?style=social" alt="GitHub followers"/>
 <img src="https://img.shields.io/github/stars/fransisgit?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
-<img src="https://badges.pufler.dev/repos/fransisgit?style=flat-square&color=000000" alt="Repos Badge"/>
+<img src="https://badges.pufler.dev/repos/fransisgit?style=social" alt="Repos Badge"/>
 </p>
 
 <hr>
