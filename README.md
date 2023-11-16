@@ -10,7 +10,9 @@
   <img align="right" src="https://github.com/FransisGIT/FransisGIT/assets/102639215/a6227ce8-328b-4940-87c9-416b41ff48f1" width="48%">
 </div>
 
+<div>
 <hr>
+</div>
 
 <div align="center">
   <img src="assets/foot.gif">
