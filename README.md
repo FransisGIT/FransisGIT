@@ -1,7 +1,7 @@
 <img src="assets/intro.gif" width="100%"/>
 
-<h1 align="center">Hi <img align="center" src="assets/wavinghand.gif" width="35">, I'm Fransisco <img src="assets/profile.jpeg" width="25px"> </h1>
-<h2 align="center">I'm a person who enjoys coding and computers stuff.</h2>
+<h1 align="center">Hi <img align="center" src="assets/wavinghand.gif" width="35">, I'm Fransisco  </h1>
+<h2 align="center">a person who likes much about coding and computers stuff.</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fransisgit&label=Profile%20views&color=53B14F&style=flat-square" alt="view profile" width="175"/>
