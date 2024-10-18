@@ -30,8 +30,8 @@
 </div>
 
 <div align="center">
-  <img align="" src="https://github.com/FransisGIT/CRUD/blob/main/10192-ezgif.com-optimize.gif" alt="Optimized Gif" width="185"/>
-  <img align="" src="https://github.com/FransisGIT/CRUD/blob/main/10192-feixiao2.gif" alt="Optimized Gif" width="185"/>
+  <img align="" src="assets/feixiao1.gif" alt="Optimized Gif" width="185"/>
+  <img align="" src="assets/feixiao2.gif" alt="Optimized Gif" width="185"/>
 </div>
 
 <div align="center">
