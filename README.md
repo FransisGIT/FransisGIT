@@ -26,8 +26,8 @@
 </div>
 
 <div align="center">
-  <img align="" src="https://github.com/FransisGIT/CRUD/blob/main/10192-ezgif.com-optimize.gif" alt="Optimized Gif" width="200"/>
-  <img align="" src="https://github.com/FransisGIT/CRUD/blob/main/10192-feixiao2.gif" alt="Optimized Gif" width="200"/>
+  <img align="" src="https://github.com/FransisGIT/CRUD/blob/main/10192-ezgif.com-optimize.gif" alt="Optimized Gif" width="150"/>
+  <img align="" src="https://github.com/FransisGIT/CRUD/blob/main/10192-feixiao2.gif" alt="Optimized Gif" width="150"/>
 </div>
 
 <div align="center">
