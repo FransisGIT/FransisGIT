@@ -3,7 +3,11 @@
   <h1>
     Hi <img src="assets/wavinghand.gif" width="35">, I'm Fransisco 
     <br/>
-    <h3>a person who likes much about coding and computers stuff.</h3>
+    <h3>
+      Just a lad who likes much about coding and computer stuff.
+      <br />
+      LET'S BE FRIENDS ☺️
+    </h3>
   </h1>
 </div>
 
@@ -26,13 +30,21 @@
 </div>
 
 <div align="center">
-  <img align="" src="https://github.com/FransisGIT/CRUD/blob/main/10192-ezgif.com-optimize.gif" alt="Optimized Gif" width="150"/>
-  <img align="" src="https://github.com/FransisGIT/CRUD/blob/main/10192-feixiao2.gif" alt="Optimized Gif" width="150"/>
+  
+  <img align="" src="https://github.com/FransisGIT/CRUD/blob/main/10192-feixiao2.gif" alt="Optimized Gif" width="185"/>
 </div>
 
 <div align="center">
   <img align="left" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ne6p3b7ubdlw277wivafv5hb2q&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ne6p3b7ubdlw277wivafv5hb2q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)" width="45%">
   <img src="https://github.com/FransisGIT/FransisGIT/assets/102639215/a6227ce8-328b-4940-87c9-416b41ff48f1" width="46%">
+</div>
+
+<div align="center">
+  <img align="" src="https://github.com/FransisGIT/CRUD/blob/main/10192-ezgif.com-optimize.gif" alt="Optimized Gif" width="185"/>
+</div>
+
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=fransisgit&theme=tokyonight_duo&hide_border=true&title_color=F776C0"
 </div>
 
 <div>
