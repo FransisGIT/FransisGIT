@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img align="" src="assets/feixiao1.gif" alt="Optimized Gif" width="185"/>
+  <img align="" src="assets/feixiao1.gif" alt="Optimized Gif" width="210"/>
   <img align="" src="assets/feixiao2.gif" alt="Optimized Gif" width="185"/>
 </div>
 
