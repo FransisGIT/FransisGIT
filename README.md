@@ -28,10 +28,9 @@
 <div align="center">
   <h3>Now Playing | Favorite</h3>
 </div>
-
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ne6p3b7ubdlw277wivafv5hb2q&redirect=true">
-    <img align="left" width="44%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ne6p3b7ubdlw277wivafv5hb2q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false">
+  <a align="left" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ne6p3b7ubdlw277wivafv5hb2q&redirect=true">
+    <img width="40%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ne6p3b7ubdlw277wivafv5hb2q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false">
   </a>
   
   <img src="https://github.com/FransisGIT/FransisGIT/assets/102639215/a6227ce8-328b-4940-87c9-416b41ff48f1" width="46%">
